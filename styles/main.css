@@ -12,6 +12,7 @@ body {
 main {
   margin: 2.5rem auto;
   max-width: 500px;
+  padding: 0 1rem;
 }
 
 a {
