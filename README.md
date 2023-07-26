@@ -1,4 +1,4 @@
-# bassemmohamed.github.io
+# bassem-i.github.io
 
 Bassem Ibrahim personal website
 
